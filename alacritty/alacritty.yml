@@ -437,10 +437,7 @@ font:
   #   - (Windows) powershell
 shell:
   program: /opt/homebrew/bin/tmux
-  args:
-    - new
-    - -A
-    - -s main
+    #args:
 # Startup directory
 #
 # Directory the shell is started in. If this is unset, or `None`, the working

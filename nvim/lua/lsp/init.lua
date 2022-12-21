@@ -120,7 +120,6 @@ local servers = {
 	"html",
 	"cssls",
 	"sumneko_lua",
-	"marksman",
 	"tailwindcss",
 	"volar",
 	"clojure_lsp",
