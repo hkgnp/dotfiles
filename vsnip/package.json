@@ -1,0 +1,26 @@
+{
+  "name": "vsnip",
+  "contributes": {
+    "snippets": [
+      {
+        "language": [
+          "all"
+        ],
+        "path": "./global.json"
+      },
+      {
+        "language": [
+          "html"
+        ],
+        "path": "./html.json"
+      },
+      {
+        "language": [
+          "typescript",
+          "javascript"
+        ],
+        "path": "./typescript.json"
+      }
+    ]
+  }
+}
